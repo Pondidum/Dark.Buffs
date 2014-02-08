@@ -1,5 +1,5 @@
 ## Interface: 50001
-## Title: Dark.BuffFrames
+## Title: Dark.Buffs
 ## Author: Darkend / DarkStorm / Zenedar / EU
 ## Version: 0.0.1
 ## Notes: Buff Frames
