@@ -13,7 +13,7 @@ ns.features.skinButtons = function()
 
 		button.duration:SetFont(core.fonts.normal, 10)
 		style.applyShadowTo(button)
-		
+
 		icon:SetTexCoord(.08, .92, .08, .92)
 		icon:SetPoint("TOPLEFT", button, 2, -2)
 		icon:SetPoint("BOTTOMRIGHT", button, -2, 2)
