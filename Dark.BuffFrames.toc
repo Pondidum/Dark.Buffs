@@ -1,0 +1,12 @@
+## Interface: 50001
+## Title: Dark.BuffFrames
+## Author: Darkend / DarkStorm / Zenedar / EU
+## Version: 0.0.1
+## Notes: Buff Frames
+## RequiredDeps: Dark.Core
+
+initialise.lua
+
+skinButtons.lua
+
+run.lua
