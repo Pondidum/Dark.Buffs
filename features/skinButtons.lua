@@ -41,6 +41,4 @@ ns.features.skinButtons = function()
 
 	end)
 
-	BuffFrame_Update()
-
 end
